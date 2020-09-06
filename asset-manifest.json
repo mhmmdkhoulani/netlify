@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/netlify/static/css/main.61733a16.chunk.css",
+    "main.js": "/netlify/static/js/main.8863e64b.chunk.js",
+    "main.js.map": "/netlify/static/js/main.8863e64b.chunk.js.map",
+    "runtime-main.js": "/netlify/static/js/runtime-main.83467f41.js",
+    "runtime-main.js.map": "/netlify/static/js/runtime-main.83467f41.js.map",
+    "static/css/2.64930493.chunk.css": "/netlify/static/css/2.64930493.chunk.css",
+    "static/js/2.e8336592.chunk.js": "/netlify/static/js/2.e8336592.chunk.js",
+    "static/js/2.e8336592.chunk.js.map": "/netlify/static/js/2.e8336592.chunk.js.map",
+    "index.html": "/netlify/index.html",
+    "precache-manifest.564e47133994d2d86b8b74a34f114dc9.js": "/netlify/precache-manifest.564e47133994d2d86b8b74a34f114dc9.js",
+    "service-worker.js": "/netlify/service-worker.js",
+    "static/css/2.64930493.chunk.css.map": "/netlify/static/css/2.64930493.chunk.css.map",
+    "static/css/main.61733a16.chunk.css.map": "/netlify/static/css/main.61733a16.chunk.css.map",
+    "static/js/2.e8336592.chunk.js.LICENSE.txt": "/netlify/static/js/2.e8336592.chunk.js.LICENSE.txt",
+    "static/media/job-1.png": "/netlify/static/media/job-1.885bfb41.png",
+    "static/media/job-2.png": "/netlify/static/media/job-2.76e3582f.png",
+    "static/media/job-4.png": "/netlify/static/media/job-4.da157ac6.png",
+    "static/media/jop-3.png": "/netlify/static/media/jop-3.d524c010.png",
+    "static/media/logo.svg": "/netlify/static/media/logo.af40a36a.svg",
+    "static/media/profile.jpg": "/netlify/static/media/profile.510b649a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83467f41.js",
+    "static/css/2.64930493.chunk.css",
+    "static/js/2.e8336592.chunk.js",
+    "static/css/main.61733a16.chunk.css",
+    "static/js/main.8863e64b.chunk.js"
+  ]
+}
